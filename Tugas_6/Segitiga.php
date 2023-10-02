@@ -17,8 +17,8 @@ class Segitiga extends Bentuk2D {
     } 
  
     public function kelilingBidang() { 
-        // Sisi segitiga tidak disediakan, sehingga tidak dapat menghitung keliling. 
-        return "Tidak dapat dihitung"; 
+        // Untuk segitiga, biasanya tidak ada keliling yang ditentukan berdasarkan alas dan tinggi saja. 
+        return null; 
     } 
 } 
 ?>

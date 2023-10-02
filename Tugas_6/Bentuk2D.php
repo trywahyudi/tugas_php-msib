@@ -1,6 +1,6 @@
 <?php 
 abstract class Bentuk2D { 
-    abstract public function luasBidang(); 
-    abstract public function kelilingBidang(); 
+    abstract function luasBidang(); 
+    abstract function kelilingBidang(); 
 } 
 ?>
